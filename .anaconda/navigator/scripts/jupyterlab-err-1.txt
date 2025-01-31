@@ -1,0 +1,128 @@
+[I 2024-09-23 10:12:29.978 ServerApp] Extension package aext_assistant took 0.3289s to import
+[I 2024-09-23 10:12:30.003 ServerApp] ****************** ENVIRONMENT Environment.PRODUCTION ******************
+[I 2024-09-23 10:12:30.007 ServerApp] ****************** ENVIRONMENT Environment.PRODUCTION ******************
+[W 2024-09-23 10:12:30.041 ServerApp] A `_jupyter_server_extension_points` function was not found in jupyter_lsp. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[W 2024-09-23 10:12:30.053 ServerApp] A `_jupyter_server_extension_points` function was not found in notebook_shim. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2024-09-23 10:12:31.356 ServerApp] Extension package panel.io.jupyter_server_extension took 1.3018s to import
+[I 2024-09-23 10:12:31.356 ServerApp] aext_assistant | extension was successfully linked.
+[I 2024-09-23 10:12:31.357 ServerApp] aext_core | extension was successfully linked.
+[I 2024-09-23 10:12:31.357 ServerApp] aext_panels | extension was successfully linked.
+[I 2024-09-23 10:12:31.357 ServerApp] aext_share_notebook | extension was successfully linked.
+[I 2024-09-23 10:12:31.357 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2024-09-23 10:12:31.363 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2024-09-23 10:12:31.368 ServerApp] jupyterlab | extension was successfully linked.
+[I 2024-09-23 10:12:31.375 ServerApp] notebook | extension was successfully linked.
+[I 2024-09-23 10:12:31.898 ServerApp] notebook_shim | extension was successfully linked.
+[I 2024-09-23 10:12:31.898 ServerApp] panel.io.jupyter_server_extension | extension was successfully linked.
+[I 2024-09-23 10:12:31.939 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2024-09-23 10:12:31.940 ServerApp] Registered aext_assistant server extension
+[I 2024-09-23 10:12:31.940 ServerApp] aext_assistant | extension was successfully loaded.
+[I 2024-09-23 10:12:31.940 ServerApp] Registered aext_core server extension
+[I 2024-09-23 10:12:31.940 ServerApp] aext_core | extension was successfully loaded.
+[I 2024-09-23 10:12:31.942 ServerApp] Registered aext_panels server extension
+[I 2024-09-23 10:12:31.942 ServerApp] aext_panels | extension was successfully loaded.
+[I 2024-09-23 10:12:31.942 ServerApp] Registered aext_share_notebook_server server extension
+[I 2024-09-23 10:12:31.942 ServerApp] aext_share_notebook | extension was successfully loaded.
+[I 2024-09-23 10:12:31.944 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2024-09-23 10:12:31.945 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2024-09-23 10:12:31.949 LabApp] JupyterLab extension loaded from /opt/anaconda3/lib/python3.12/site-packages/jupyterlab
+[I 2024-09-23 10:12:31.950 LabApp] JupyterLab application directory is /opt/anaconda3/share/jupyter/lab
+[I 2024-09-23 10:12:31.950 LabApp] Extension Manager is 'pypi'.
+[I 2024-09-23 10:12:31.953 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2024-09-23 10:12:31.958 ServerApp] notebook | extension was successfully loaded.
+[I 2024-09-23 10:12:31.959 ServerApp] panel.io.jupyter_server_extension | extension was successfully loaded.
+[I 2024-09-23 10:12:31.959 ServerApp] The port 8888 is already in use, trying another port.
+[I 2024-09-23 10:12:31.960 ServerApp] Serving notebooks from local directory: /Users/vitorbruno
+[I 2024-09-23 10:12:31.960 ServerApp] Jupyter Server 2.14.1 is running at:
+[I 2024-09-23 10:12:31.960 ServerApp] http://localhost:8889/lab?token=24a861ccc74236d938f05d6690c5c2ff91abf17e1f852098
+[I 2024-09-23 10:12:31.960 ServerApp]     http://127.0.0.1:8889/lab?token=24a861ccc74236d938f05d6690c5c2ff91abf17e1f852098
+[I 2024-09-23 10:12:31.960 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2024-09-23 10:12:31.968 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///Users/vitorbruno/Library/Jupyter/runtime/jpserver-1297-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8889/lab?token=24a861ccc74236d938f05d6690c5c2ff91abf17e1f852098
+        http://127.0.0.1:8889/lab?token=24a861ccc74236d938f05d6690c5c2ff91abf17e1f852098
+[I 2024-09-23 10:12:32.023 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[W 2024-09-23 10:12:48.110 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2024-09-23 10:12:49.949 ServerApp] Creating new notebook in 
+[I 2024-09-23 10:13:45.275 ServerApp] Saving file at /Untitled1.ipynb
+[E 2024-09-23 10:13:45.307 ServerApp] Uncaught exception POST /api/contents/Untitled1.ipynb/checkpoints?1727079225290 (::1)
+    HTTPServerRequest(protocol='http', host='localhost:8889', method='POST', uri='/api/contents/Untitled1.ipynb/checkpoints?1727079225290', version='HTTP/1.1', remote_ip='::1')
+    Traceback (most recent call last):
+      File "/opt/anaconda3/lib/python3.12/site-packages/tornado/web.py", line 1790, in _execute
+        result = await result
+                 ^^^^^^^^^^^^
+      File "/opt/anaconda3/lib/python3.12/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+               ^^^^^^^^^
+      File "/opt/anaconda3/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 357, in post
+        checkpoint = await ensure_async(cm.create_checkpoint(path))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/opt/anaconda3/lib/python3.12/site-packages/jupyter_core/utils/__init__.py", line 198, in ensure_async
+        result = await obj
+                 ^^^^^^^^^
+      File "/opt/anaconda3/lib/python3.12/site-packages/jupyter_server/services/contents/manager.py", line 1085, in create_checkpoint
+        return await self.checkpoints.create_checkpoint(self, path)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/opt/anaconda3/lib/python3.12/site-packages/jupyter_server/services/contents/filecheckpoints.py", line 141, in create_checkpoint
+        return await self.checkpoint_model(checkpoint_id, dest_path)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/opt/anaconda3/lib/python3.12/site-packages/jupyter_server/services/contents/filecheckpoints.py", line 151, in checkpoint_model
+        stats = await run_sync(os.stat, os_path)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/opt/anaconda3/lib/python3.12/site-packages/anyio/to_thread.py", line 56, in run_sync
+        return await get_async_backend().run_sync_in_worker_thread(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/opt/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 2134, in run_sync_in_worker_thread
+        return await future
+               ^^^^^^^^^^^^
+      File "/opt/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 851, in run
+        result = context.run(func, *args)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^
+    FileNotFoundError: [Errno 2] No such file or directory: '/Users/vitorbruno/.ipynb_checkpoints/Untitled1-checkpoint.ipynb'
+[W 2024-09-23 10:13:45.325 ServerApp] wrote error: 'Unhandled error'
+    Traceback (most recent call last):
+      File "/opt/anaconda3/lib/python3.12/site-packages/tornado/web.py", line 1790, in _execute
+        result = await result
+                 ^^^^^^^^^^^^
+      File "/opt/anaconda3/lib/python3.12/site-packages/jupyter_server/auth/decorator.py", line 73, in inner
+        return await out
+               ^^^^^^^^^
+      File "/opt/anaconda3/lib/python3.12/site-packages/jupyter_server/services/contents/handlers.py", line 357, in post
+        checkpoint = await ensure_async(cm.create_checkpoint(path))
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/opt/anaconda3/lib/python3.12/site-packages/jupyter_core/utils/__init__.py", line 198, in ensure_async
+        result = await obj
+                 ^^^^^^^^^
+      File "/opt/anaconda3/lib/python3.12/site-packages/jupyter_server/services/contents/manager.py", line 1085, in create_checkpoint
+        return await self.checkpoints.create_checkpoint(self, path)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/opt/anaconda3/lib/python3.12/site-packages/jupyter_server/services/contents/filecheckpoints.py", line 141, in create_checkpoint
+        return await self.checkpoint_model(checkpoint_id, dest_path)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/opt/anaconda3/lib/python3.12/site-packages/jupyter_server/services/contents/filecheckpoints.py", line 151, in checkpoint_model
+        stats = await run_sync(os.stat, os_path)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/opt/anaconda3/lib/python3.12/site-packages/anyio/to_thread.py", line 56, in run_sync
+        return await get_async_backend().run_sync_in_worker_thread(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+      File "/opt/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 2134, in run_sync_in_worker_thread
+        return await future
+               ^^^^^^^^^^^^
+      File "/opt/anaconda3/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 851, in run
+        result = context.run(func, *args)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^
+    FileNotFoundError: [Errno 2] No such file or directory: '/Users/vitorbruno/.ipynb_checkpoints/Untitled1-checkpoint.ipynb'
+[E 2024-09-23 10:13:45.326 ServerApp] {
+      "Host": "localhost:8889",
+      "Accept": "*/*",
+      "Referer": "http://localhost:8889/lab/tree/Untitled1.ipynb?",
+      "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36"
+    }
+[E 2024-09-23 10:13:45.326 ServerApp] 500 POST /api/contents/Untitled1.ipynb/checkpoints?1727079225290 (1c44f5aac049478893e0e0cec55c1cc4@::1) 31.58ms referer=http://localhost:8889/lab/tree/Untitled1.ipynb?
